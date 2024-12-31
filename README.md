@@ -2,7 +2,7 @@
 ## Revised files
 [Burger model](https://github.com/Ruiji-Liu/turtlebot3_simulations/blob/main/turtlebot3_gazebo/models/turtlebot3_burger/model.sdf)
 
-[Gazebo World](https://github.com/Ruiji-Liu/turtlebot3_simulations/blob/main/turtlebot3_gazebo/worlds/test.world)
+[Gazebo world](https://github.com/Ruiji-Liu/turtlebot3_simulations/blob/main/turtlebot3_gazebo/worlds/test.world)
 
 [Launch file](https://github.com/Ruiji-Liu/turtlebot3_simulations/blob/main/turtlebot3_gazebo/launch/turtlebot3_test.launch.py)
 ## Required packages
