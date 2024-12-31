@@ -1,6 +1,6 @@
 # Turtlebot3 Gazebo World
 ## Revised files
-[burger model](https://github.com/Ruiji-Liu/turtlebot3_simulations/blob/main/turtlebot3_gazebo/models/turtlebot3_burger/model.sdf)
+[Burger model](https://github.com/Ruiji-Liu/turtlebot3_simulations/blob/main/turtlebot3_gazebo/models/turtlebot3_burger/model.sdf)
 
 [Gazebo World](https://github.com/Ruiji-Liu/turtlebot3_simulations/blob/main/turtlebot3_gazebo/worlds/test.world)
 
